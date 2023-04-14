@@ -1,4 +1,4 @@
-### Hi there 👋
+### 내가 어떻게 했더라?.. <img src="https://i1.ruliweb.com/img/22/05/16/180ca6537374e3ce9.jpg" width="50px" height="50px">
 
 <!--
 **jaeseong-kim/jaeseong-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### skill
+
+### BaekJoon
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wotjd0113)](https://solved.ac/wotjd0113)
+
+### Skill
+
 <img src="https://img.shields.io/badge/java-lightgrey?style=flat-square"/> <img src="https://img.shields.io/badge/springboot-grenn?style=flat-square&logo=Spring Boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/mysql-blue?style=flat-square&logo=MySQL&logoColor=4479A1"/>
