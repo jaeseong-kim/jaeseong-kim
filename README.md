@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### skill
+<img src="https://img.shields.io/badge/java-lightgrey?style=flat-square"/> <img src="https://img.shields.io/badge/springboot-grenn?style=flat-square&logo=Spring Boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/mysql-blue?style=flat-square&logo=MySQL&logoColor=4479A1"/>
