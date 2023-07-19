@@ -1,4 +1,4 @@
-### 내가 어떻게 했더라?.. <img src="https://i1.ruliweb.com/img/22/05/16/180ca6537374e3ce9.jpg" width="50px" height="50px">
+### 김재성
 
 <!--
 **jaeseong-kim/jaeseong-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
